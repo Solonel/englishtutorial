@@ -4,16 +4,16 @@
  # Section 2 : Getting Setup
  - [x] **Chapitre 2** - Section Intro  
  - [x] **Chapitre 3** - Installing Node  
- - [ ] **Chapitre 4** - What Is Node?
- - [ ] **Chapitre 5** - Why Should I Use Node?
- - [ ] **Chapitre 6** - Installing Atom
- - [ ] **Chapitre 7** - Hello World!
+ - [x] **Chapitre 4** - What Is Node?
+ - [x] **Chapitre 5** - Why Should I Use Node?
+ - [x] **Chapitre 6** - Installing Atom
+ - [x] **Chapitre 7** - Hello World!
 
 # Section 3 : Node.js Fundamentals (Note App)
-- [ ] **Chapitre 8** Section Intro
-- [ ] **Chapitre 9** Using Require
-- [ ] **Chapitre 10** Requiring Your Own Files
-- [ ] **Chapitre 11** Using 3rd Party Modules
+- [x] **Chapitre 8** Section Intro
+- [x] **Chapitre 9** Using Require
+- [x] **Chapitre 10** Requiring Your Own Files
+- [x] **Chapitre 11** Using 3rd Party Modules
 - [ ] **Chapitre 12** Restarting App with Nodemon
 - [ ] **Chapitre 13** Getting Input From User
 - [ ] **Chapitre 14** Simplified Input With Yargs
